@@ -1,4 +1,8 @@
 I have an apple and you have two. 
+No!
 You give me an apple and I have two. 
+Yes!
 I eat an apple and give one back to you. 
+Okay!
 I have no apple and you have two. 
+Sorry!
